@@ -1,2 +1,1 @@
-# dynatrace-operator
-Automate Kubernetes observability with Dynatrace
+This is bug bounty Hackerone test
